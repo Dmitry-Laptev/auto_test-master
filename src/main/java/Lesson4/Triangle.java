@@ -12,10 +12,10 @@ public class Triangle {
         int a = 3;
         int b = 4;
         int c = 5;
-        int p = 0;
-        int s = 0;
-        p = (a + b + c) / 2;
-        s = (p*(p - a) * (p - b) * (p - c));
+        // int p = 0;
+        // int s = 0;
+        int p = (a + b + c) / 2;
+        int s = (p*(p - a) * (p - b) * (p - c));
 
         System.out.println(Math.sqrt(s));
     }

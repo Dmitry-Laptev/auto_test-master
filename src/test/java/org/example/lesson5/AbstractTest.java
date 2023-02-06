@@ -28,7 +28,7 @@ public abstract class AbstractTest {
 
     @BeforeEach
     void goTo(){
-        Assertions.assertDoesNotThrow( ()-> driver.navigate().to("https://www.vstu.ru"),
+        Assertions.assertDoesNotThrow( ()-> driver.navigate().to("https://www.livejournal.com/"),
                 "Страница не доступна");
     }
 
