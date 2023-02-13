@@ -156,7 +156,7 @@
         <version> ${allure-maven.version} </version>
         <configuration>
 
-          <buildDirectory>C:\Projects\web_test</buildDirectory>
+          <buildDirectory>C:\Users\dlapt\OneDrive\Рабочий стол\Java\Auto</buildDirectory>
         </configuration>
       </plugin>
     </plugins>

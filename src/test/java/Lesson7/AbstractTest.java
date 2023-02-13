@@ -1,4 +1,4 @@
-package org.example.lesson6.bbc;
+package Lesson7;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.example.lesson7.MyWebDriverEventListener;
